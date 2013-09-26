@@ -1,6 +1,8 @@
 
-DAvid de Antonio Monte
+<nombre>David de Antonio Monte</nombre>
 
-Aficionado al fútbol y a los botellines
+<edad>23</edad>
 
-dd.antonio90@gmail.com
+<ocio>Aficionado al fútbol y a los botellines</ocio>
+
+<carrera>Ing Telecomunicaciones</carrera>
